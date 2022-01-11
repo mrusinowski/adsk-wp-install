@@ -1,6 +1,6 @@
-## Install wordpress
+# How to install wordpress
 
-# Opis kroków instalacji:
+## Opis kroków instalacji:
 * Instalacja Apache, HTTP Servera, ngnix
 * Instalacja interpretera PHP
 * Start Apache
