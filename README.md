@@ -1,6 +1,6 @@
 ## How to install wordpress
 
-## Opis kroków instalacji:
+## automatyzacja instalacji wordpress:
 * Instalacja MariaDB
 * Uruchomienie MariaDB
 * Instalacja MySQL-python
